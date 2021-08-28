@@ -8,7 +8,7 @@
 
 ## ícones
 
- • :package: - nova funcionalidade
+ • :package: - nova funcionalidade <br>
  • :arrow_up: - atualização
  • :beetle: - correção de bug
  • :checkered_flag: - release
