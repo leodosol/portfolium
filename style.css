@@ -13,7 +13,7 @@
    :root {
       --font-primary: "Josefin Sans", sans-serif;
       --font-secondary: "Baloo 2", sans-serif;
-      --font-action: "Mulish", sans-serif;
+      --font-action: "Mulish", sans-serif; 
       --shadow-color: rgba(26, 26, 26, 0.864);
       --color-first: #6a3093;
   }
@@ -206,3 +206,8 @@
       color: var(--color-first);
       transition: color 1s;
   }
+
+  .conhecimentos{
+      display: grid;
+      grid-template-columns: repeat (16, 1fr);
+      grid-template-rows: repeat (6, 4rem);
